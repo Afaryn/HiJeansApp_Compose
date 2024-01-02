@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hi Jeans</string>
+    <string name="price">Rp. %d</string>
+    <string name="share_message">Hey, I have Order %1$d Menus at Hi Jeans Cafe with total Rp. %2$d . Do you want too?</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="total_order">Total pesanan : Rp %d </string>
+    <string name="back">Back</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp %d </string>
+    <string name="menu_profile">Profile </string>
+    <string name="hijeans_menu">Hi Jeans Menu</string>
+    <string name="menu_Home">Menu</string>
+    <string name="search">Ketik Disini</string>
+    <string name="name">Audy Fitri Ariani</string>
+    <string name="email">audy.fitri10@gmail.com</string>
+</resources>
